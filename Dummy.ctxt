@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dummy()
+comment1.params=east
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ setMaxCapacity()
+comment3.params=
+comment3.target=void\ createPassengers()
+comment4.params=
+comment4.target=void\ createAirports()
+comment5.params=
+comment5.target=void\ createScrollWindow()
+comment6.params=
+comment6.target=void\ scheduleFlights()
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ Act\ -\ do\ whatever\ the\ Dummy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=8
